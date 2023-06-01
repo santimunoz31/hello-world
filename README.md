@@ -72,3 +72,7 @@ Add repo to git:
 `git branch -M main`
 
 `git push -u origin main`
+
+To allow the connection between github and git:
+
+`gh auth login`
