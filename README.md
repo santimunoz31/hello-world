@@ -64,3 +64,11 @@ For creating and switching at the same time:
 
 
 ## Github and Git
+
+Add repo to git:
+
+`git remote add origin https://github.com/santimunoz31/agv-jr.git`
+
+`git branch -M main`
+
+`git push -u origin main`
